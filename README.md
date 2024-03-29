@@ -1,6 +1,6 @@
 ## Project Setup Instructions
 
-This project uses Docker Compose to run a Next.js frontend and a backend API server. 
+This project uses Docker Compose to run a Next.js frontend and a Node.js Express backend API server. 
 
 **Prerequisites**
 
