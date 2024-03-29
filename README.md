@@ -11,8 +11,8 @@ This project uses Docker Compose to run a Next.js frontend and a backend API ser
 
 1. **Set Up Environment Variables:**
    * **Navigate to the server directory:** `cd server`
-   * **Create a .env file:** Copy the contents of `.env.example` into a new file named `.env`
-   * **MongoDB Connection String:** Replace the placeholder in `.env` with your actual MongoDB connection string:
+   * **Create a .env file:** Create a new file named `.env`
+   * **MongoDB Connection String:** Add the following line to your `.env` file and replace the placeholder with your actual MongoDB connection string:
       ```
       MONGODB_URI=mongodb://your-connection-details
       ```
